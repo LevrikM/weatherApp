@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="defaultTemp">0C</string>
+    <string name="defaultPressure">0</string>
+    <string name="defaultHumidity">0</string>
+    <string name="defaultFeels">0</string>
+    <string name="defaultPrecipitation">0</string>
+    <string name="defaultDescription">Description loading..</string>
+
+
+
+    <string name="humidity">Вологість 💧</string>
+    <string name="pressure">Тиск 😤</string>
+    <string name="temp">Температура</string>
+    <string name="feelsLike">Відчувається як 🌡️</string>
+    <string name="precipitation">Опади 🌧️</string>
+
+    <string name="cityLabel">Loading city name..</string>
+
+    <string name="checkBoxTextShow">Показати деталі</string>
+    <string name="checkBoxTextHide">Сховати деталі</string>
+
+
+</resources>
